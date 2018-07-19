@@ -1,6 +1,6 @@
 # reduxtagram
 
-This was built following Wes Bos Redux Tutorial using ###ReactJS and ###Redux
+This was built following Wes Bos Redux Tutorial using ### ReactJS and ### Redux
 
 ## Running
 
